@@ -1,4 +1,4 @@
-## Git-Dasar
+<h1> Git-Dasar </h1>
 
 **Untuk Membuat Repository Baru :*
 > git init
@@ -13,21 +13,28 @@ echo "belajar perintah dasar git" > aw.txt
 
 Jika kamu hanya melakukan perubahan pada satu file bisa diketik nama berkasnya.
 Namun jika kalian melakukan banyak perubahan atau bahkan semua file, kita gunakan perintah :
-git add *
 
-Melakukan Komit :
-git commit -m "keterangan komit"
+> git add *
+
+## Melakukan Komit :
+
+> git commit -m "keterangan komit"
+
 Hal ini untuk menambahkan keterangan perubahan apa yang kita lakukan pada file tersebut.
 
-Menghubungkan ke Server Repository Jarak Jauh :
-git remote add origin https://github.com/linuxsecorg/linuxsecorg
+** Menghubungkan ke Server Repository Jarak Jauh :**
+
+> git remote add origin https://github.com/linuxsecorg/linuxsecorg
+
 Hal ini dilakukan agar kamu bisa mengirimkan perubahan ke server jarak-jauh yang dituju.
 
-Mengirim Perubahan ke Repository jarak Jauh :
-git push origin master
+** Mengirim Perubahan ke Repository jarak Jauh :**
+
+> git push origin master
+
 Perintah ini digunakan untuk mengirim perubahan atau file dari lokal ke remote server. Berhubung di tutorial ini menggunakan repository gitHub, kalian akan diminta password dan username akun github kalian. Jadi isi dengan benar agar perubahan terkirim.
 
-Memperbarui Repository Lokal
+** Memperbarui Repository Lokal **
 Nah semisal kalian melakukan perubahan di repository jarak jauh, yang mana tidak dilakukan melalui push lewat repository lokal pastinya repository lokal kalian isinya akan berbeda (belum update). Nah untuk memperbarui repository lokal gunakan perintah :
 git pull
 
