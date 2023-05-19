@@ -1,13 +1,11 @@
 ## Git-Dasar
 
-**Untuk Membuat Repository Baru :
-git init**
-
+**Untuk Membuat Repository Baru :*
+> git ini
 Hal ini digunakan untuk membuat repository atau "tempat kerja" kalian.
-Contoh output :
-Initialized empty Git repository in /home/alfafahmi/github-tutorial/.git/
+Contoh output :Initialized empty Git repository in /home/alfafahmi/github-tutorial/.git/
 
-Menambahkan File ke Repository
+**Menambahkan File ke Repository**
 Sebagai contoh saya ingin menambahkan sebuat file .txt ke repository saya :
 echo "belajar perintah dasar git" > aw.txt
 git add aw.txt
