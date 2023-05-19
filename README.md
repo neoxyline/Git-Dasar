@@ -9,7 +9,8 @@ Contoh output :Initialized empty Git repository in /home/alfafahmi/github-tutori
 **Menambahkan File ke Repository**
 Sebagai contoh saya ingin menambahkan sebuat file .txt ke repository saya :
 echo "belajar perintah dasar git" > aw.txt
-git add aw.txt
+> git add aw.txt
+
 Jika kamu hanya melakukan perubahan pada satu file bisa diketik nama berkasnya.
 Namun jika kalian melakukan banyak perubahan atau bahkan semua file, kita gunakan perintah :
 git add *
