@@ -16,7 +16,7 @@ Namun jika kalian melakukan banyak perubahan atau bahkan semua file, kita gunaka
 
 > git add *
 
-**Melakukan Komit :
+**Melakukan Komit :**
 
 > git commit -m "keterangan komit"
 
@@ -38,7 +38,7 @@ Perintah ini digunakan untuk mengirim perubahan atau file dari lokal ke remote s
 Nah semisal kalian melakukan perubahan di repository jarak jauh, yang mana tidak dilakukan melalui push lewat repository lokal pastinya repository lokal kalian isinya akan berbeda (belum update). Nah untuk memperbarui repository lokal gunakan perintah :
 > git pull
 
-Melihat Log Perubahan :
+**Melihat Log Perubahan :**
 > git log
 Hal ini untuk melihat perubahan apa saja yang telah dilakukan pada file. Outputnya adalah keterangan yang kita masukkan pada commit. Itulah kenapa ngisi commit harus jelas, jangan ngasal. hehe.
 
