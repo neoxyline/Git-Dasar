@@ -1,7 +1,8 @@
 ## Git-Dasar
 
 **Untuk Membuat Repository Baru :*
-> git ini
+> git init
+
 Hal ini digunakan untuk membuat repository atau "tempat kerja" kalian.
 Contoh output :Initialized empty Git repository in /home/alfafahmi/github-tutorial/.git/
 
