@@ -1,8 +1,7 @@
 <h1> Git-Dasar </h1>
 
-**Untuk Membuat Repository Baru :
+**Untuk Membuat Repository Baru :**
 > git init
-
 Hal ini digunakan untuk membuat repository atau "tempat kerja" kalian.
 Contoh output :Initialized empty Git repository in /home/alfafahmi/github-tutorial/.git/
 
@@ -22,7 +21,7 @@ Namun jika kalian melakukan banyak perubahan atau bahkan semua file, kita gunaka
 
 Hal ini untuk menambahkan keterangan perubahan apa yang kita lakukan pada file tersebut.
 
-** Menghubungkan ke Server Repository Jarak Jauh :**
+**Menghubungkan ke Server Repository Jarak Jauh :**
 
 > git remote add origin https://github.com/linuxsecorg/linuxsecorg
 
@@ -43,6 +42,7 @@ Nah semisal kalian melakukan perubahan di repository jarak jauh, yang mana tidak
 Hal ini untuk melihat perubahan apa saja yang telah dilakukan pada file. Outputnya adalah keterangan yang kita masukkan pada commit. Itulah kenapa ngisi commit harus jelas, jangan ngasal. hehe.
 
 **Menyalin repository ke lokal :**
+
 > git clone  https://github.com/linuxsecorg/linuxsecorg.git
 Ini ditujukan untuk menyalin sebuah repository publik ke lokal. Misalnya repository milik orang lain yang berisi source code dan bersifat publik.
 
