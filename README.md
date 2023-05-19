@@ -1,7 +1,7 @@
 ## Git-Dasar
 
-** Untuk Membuat Repository Baru :**
-git init
+**Untuk Membuat Repository Baru :
+git init**
 
 Hal ini digunakan untuk membuat repository atau "tempat kerja" kalian.
 Contoh output :
