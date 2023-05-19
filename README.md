@@ -46,7 +46,8 @@ Hal ini untuk melihat perubahan apa saja yang telah dilakukan pada file. Outputn
 > git clone  https://github.com/linuxsecorg/linuxsecorg.git
 Ini ditujukan untuk menyalin sebuah repository publik ke lokal. Misalnya repository milik orang lain yang berisi source code dan bersifat publik.
 
-**Untuk perintah perintah lain bisa cek menggunakan perintah :
+**Untuk perintah perintah lain bisa cek menggunakan perintah :**
+
 > git --help
 
 Reference :
